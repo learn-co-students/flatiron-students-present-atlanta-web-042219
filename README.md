@@ -33,5 +33,8 @@ You'll be preparing for your presentation outside of classtime. Plan time to get
   2. Have created well-organized and visually-appealing slides
   3. Practiced your presentation together and made sure you're within the time limit. 
   
+## Scheduling Issues
+If you have prior commitments on the day you are assigned to present, find another group in your class willing to switch presentation days, and then let an instructor know about your switch.
+  
 ### Get Excited!
 Flatiron Presents is a great opportunity to get practice speaking about a technical topic and to dive into a subject that interests you. Plus, you'll be teaching your classmates (and any members of the public who attend the meetup) something new! 
