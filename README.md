@@ -35,6 +35,11 @@ You'll be preparing for your presentation outside of classtime. Plan time to get
   
 ### Scheduling Issues
 If you have prior commitments on the day you are assigned to present, find another group in your class willing to switch presentation days, and then let an instructor know about your switch.
+
+### Questions?
+As an instructor if you have any questions. Checkin with your partner as soon as possible to confirm your presentation date and start thinking about a topic.  
   
 ### Get Excited!
-Flatiron Presents is a great opportunity to get practice speaking about a technical topic and to dive into a subject that interests you. Plus, you'll be teaching your classmates (and any members of the public who attend the meetup) something new! 
+Flatiron Presents is a great opportunity to get practice speaking about a technical topic and to dive into a subject that interests you. Plus, you'll be teaching your classmates (and any members of the public who attend the meetup) something new!
+
+Also, Flatiron Presents is open to the public, as well as students from every class each Tuesday. Support your fellow classmates and attend FSP!
