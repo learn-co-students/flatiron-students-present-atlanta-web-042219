@@ -1,7 +1,7 @@
 ## Flatiron Students Present
 
 ### Overview
-Starting in week 1 of Module 4, students will participate in Flatiron Students Present. Each student will be paired with a partner and together they will prepare one 7-10 minute technical talk to present at FSP during either Module 4 or Module 5. FSP takes place on Tuesday nights at 6:15pm.
+Starting midway through the immersive program students will participate in Flatiron Students Present. Each student will be paired with a partner and together they will prepare one 7-10 minute technical talk to present at FSP. FSP takes place on Tuesday nights at 6:15pm.
 
 
 ### Subjects
