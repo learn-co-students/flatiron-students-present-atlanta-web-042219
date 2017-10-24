@@ -1,7 +1,7 @@
 ## Flatiron Students Present
 
 ### Overview
-Starting in module three students will participate in Flatiron Students Present. Each student will be paired with a partner (or group of three) and together they will prepare one 7-10 minute technical talk to present at FSP. FSP takes place on Tuesday nights at 6:15pm.
+Starting in module three students will participate in Flatiron Students Present. Each student will be paired with a partner or group of three and together they will prepare one 7-10 minute technical talk to present at FSP. FSP takes place on Tuesday nights at 6:15pm.
 
 
 ### Subjects
@@ -38,7 +38,7 @@ You'll be preparing for your presentation outside of classtime. Plan time to get
 If you have prior commitments on the day you are assigned to present, find another group in your class willing to switch presentation days, and then let an instructor know about your switch.
 
 ### Questions?
-As an instructor if you have any questions. Checkin with your partner as soon as possible to confirm your presentation date and start thinking about a topic, so you'll have plenty of time to get questions answered.  
+As an instructor if you have any questions. Check in with your partner as soon as possible to confirm your presentation date and start thinking about a topic, so you'll have plenty of time to get questions answered.  
   
 ### Get Excited!
 Flatiron Presents is a great opportunity to get practice speaking about a technical topic and to dive into a subject that interests you. Plus, you'll be teaching your classmates (and any members of the public who attend the meetup) something new!
