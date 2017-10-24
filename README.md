@@ -19,7 +19,7 @@ To give you an idea of appropriate topics, below is a list of FSP topics student
 - Creating a Ruby Gem
 
 ### Slides
-You should have a Powerpoint/Google Slides to accompany your talk. Don't fill your slides with text, only highlight the most important points on your slides. Feel free to use fun photos or gifs.
+You should have a Powerpoint/Google Slides to accompany your talk. Don't fill your slides with text, only highlight the most important points on your slides. Feel free to use fun photos or gifs. [Here's an example from a previous FSP](flatiron-students-present/Comparing Relational and Document Databases.pdf).
 
 ### Code
 Absolutely NO LIVE CODING. You can have code snippets in your presentation or take a gif of your code running and use that. If you use code snippets, make sure the code on the screen is under 10 lines. Any more than that is too much for the audience to process at once.
