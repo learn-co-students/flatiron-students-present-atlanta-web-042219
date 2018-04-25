@@ -23,7 +23,7 @@ You should have a Powerpoint/Google Slides to accompany your talk. Don't fill yo
 
 [Internet of Things & Particle](https://docs.google.com/presentation/d/1i5P5TFCnYqcVYWmRdQSLGlauIyAwYs5GVuEfZEjwCIU/edit?ts=5abba67a#slide=id.p).
 
-[PlayCanvas: A Javascript Game Engine](https://docs.google.com/presentation/d/1xGM1a65oma3hXVVDvkNw8Wjy7kwPc25I6kbo1qcuxCk/edit?ts=5abba645#slide=id.p).
+[PlayCanvas: A Javascript Game Engine](https://docs.google.com/presentation/d/1xGM1a65oma3hXVVDvkNw8Wjy7kwPc25I6kbo1qcuxCk/edit?usp=sharing).
 
 ### Code
 Absolutely NO LIVE CODING. You can have code snippets in your presentation or take a gif of your code running and use that. If you use code snippets, make sure the code on the screen is under 10 lines. Any more than that is too much for the audience to process at once.
