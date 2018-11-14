@@ -37,6 +37,18 @@ You'll be preparing for your presentation outside of classtime. Plan time to get
   2. Have created well-organized and visually-appealing slides
   3. Practiced your presentation together and made sure you're within the time limit. 
   
+### Introducing Yourself
+
+At the beginning of your presentation you'll want to introduce yourself to the audience. Aim for a short, 30-second summary of your career progression, leading up to Flatiron School, with an emphasis on your professional skills and goals. Think of it as a condensed narration of your story; where you started, what inspired you to get into coding (did you have a pivotal "aha!" moment?), what you're passionate about, and what you're looking forward to going forward (job and/or career wise).  
+
+Here are two examples as inspiration:
+
+* Hi, my name is Pam and building and creating things have always been in my blood. It started when I used to make model airplanes in the 5th grade, and continued through college, during which I took a few computer science classes.  After graduating with a environmental sustainability degree I worked at hazardous waste and solar energy companies. It wasn't long before I realized that my creative spirit had been stifled and was aching to escape...and that coding was what truly made me come alive! I'm now thrilled to be here at Flatiron and soon launching my new career in software engineering!
+
+* Hi, my name is Tony and I'm a former educator with a Bachelor and Masters in English and Professional Studies from Stony Brook. I've held roles as a teacher, academic policy programmer, and dean of students at two NYC public high schools. I've always loved puzzles and solving problems, and I see coding as an extension of this. I'm excited to merge my previous background in education with my new found programming skills to launch a new career as a developer in the ed tech space.
+
+There's no right or wrong way to introduce yourself. It's your story, so make it your own. :)
+  
 ### Scheduling Issues
 If you have prior commitments on the day you are assigned to present, find another group in your class willing to switch presentation days, and then let an instructor know about your switch.
 
