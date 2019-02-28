@@ -19,7 +19,7 @@ To give you an idea of appropriate topics, below is a list of FSP topics student
 - Creating a Ruby Gem
 
 ### Slides
-You should have a Powerpoint/Google Slides to accompany your talk. Don't fill your slides with text, only highlight the most important points on your slides. Feel free to use fun photos or gifs. If you include code on your slides, you should have under 5 lines per slide. Make it an easy read! Check out these examples from previous FSPs:
+You should have a Powerpoint/Google Slides to accompany your talk. Don't fill your slides with text, only highlight the most important points on your slides. Feel free to use fun photos or gifs. If you include code on your slides, you should have under 10 lines per slide. Make it an easy read! Check out these examples from previous FSPs:
 
 [Internet of Things & Particle](https://docs.google.com/presentation/d/1i5P5TFCnYqcVYWmRdQSLGlauIyAwYs5GVuEfZEjwCIU/edit?ts=5abba67a#slide=id.p).
 
